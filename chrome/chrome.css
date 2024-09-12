@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+    padding: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+button{
+    padding: 10px 20px;
+    color: white;
+    background-color: blue;
+    font-weight: bold; 
+}
+input{
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 4px;
+   
+}
+ul{
+    margin-top: 15px;
+    color: blue;
+    padding-left: 15px;
+}
+li{
+    margin-bottom: 10px;
+    color: blue;
+}
+a{
+    color: blue;
+}
